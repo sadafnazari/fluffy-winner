@@ -1,5 +1,5 @@
 ## IoT Project
-A fully automated watering system simulator based on moisture, and ph level.
+A fully automated watering system simulator based on moisture, and ph level of plants in different locations.
 
 ## Run-Server
 ```shell
